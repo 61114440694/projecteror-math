@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/projecteror-math/precache-manifest.148d0d1e1ffe26ec6d8707b2b373aaad.js"
+  "/projecteror-math/precache-manifest.2cb8efaaa80aaa7085e62065487d7386.js"
 );
 
 self.addEventListener('message', (event) => {
