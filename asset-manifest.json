@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/projecteror-math/static/css/main.523f09c5.chunk.css",
-    "main.js": "/projecteror-math/static/js/main.f4692ce6.chunk.js",
-    "main.js.map": "/projecteror-math/static/js/main.f4692ce6.chunk.js.map",
+    "main.js": "/projecteror-math/static/js/main.29263f0a.chunk.js",
+    "main.js.map": "/projecteror-math/static/js/main.29263f0a.chunk.js.map",
     "runtime-main.js": "/projecteror-math/static/js/runtime-main.11238411.js",
     "runtime-main.js.map": "/projecteror-math/static/js/runtime-main.11238411.js.map",
     "static/css/2.d3ee30bd.chunk.css": "/projecteror-math/static/css/2.d3ee30bd.chunk.css",
     "static/js/2.58df86b5.chunk.js": "/projecteror-math/static/js/2.58df86b5.chunk.js",
     "static/js/2.58df86b5.chunk.js.map": "/projecteror-math/static/js/2.58df86b5.chunk.js.map",
     "index.html": "/projecteror-math/index.html",
-    "precache-manifest.2cb8efaaa80aaa7085e62065487d7386.js": "/projecteror-math/precache-manifest.2cb8efaaa80aaa7085e62065487d7386.js",
+    "precache-manifest.2df2a9cf9ea1f09159fd9c17f15d1a6c.js": "/projecteror-math/precache-manifest.2df2a9cf9ea1f09159fd9c17f15d1a6c.js",
     "service-worker.js": "/projecteror-math/service-worker.js",
     "static/css/2.d3ee30bd.chunk.css.map": "/projecteror-math/static/css/2.d3ee30bd.chunk.css.map",
     "static/css/main.523f09c5.chunk.css.map": "/projecteror-math/static/css/main.523f09c5.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d3ee30bd.chunk.css",
     "static/js/2.58df86b5.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.f4692ce6.chunk.js"
+    "static/js/main.29263f0a.chunk.js"
   ]
 }
